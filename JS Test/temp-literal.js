@@ -7,3 +7,4 @@ console.log(full_name)
 // Sample math
 let math = `2+2=${2 + 2}`;
 console.log(math)
+

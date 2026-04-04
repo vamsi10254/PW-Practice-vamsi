@@ -12,4 +12,6 @@ const user = {
 
 user.role = "SDET";
 
-console.log(user); 
+console.log(user);
+
+

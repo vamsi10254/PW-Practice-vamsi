@@ -1,0 +1,16 @@
+console.log(y);
+let y = 10;
+
+console.log(Boolean([]));
+
+
+let day = 3;
+switch (day) {
+    case 1: console.log("Mon");
+    case 2: console.log("Tue");
+    case 3: console.log("Wed");
+    case 4: console.log("Thu");
+    default: console.log("Other");
+}
+
+for (let i = 0; i < 5; i++) { if (i === 3) break; } console.log(i);
