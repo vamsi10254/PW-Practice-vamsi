@@ -9,10 +9,10 @@ if (age > 18 || hasID === true) {
 }
 
 // 2
-let age = 20;
-let hasID = false;
+let age1 = 20;
+let hasID1 = false;
 
-if ((age > 18 && hasID === true) || age === 20) {
+if ((age1 > 18 && hasID1 === true) || age1 === 20) {
     console.log("Allowed");
 } else {
     console.log("Not Allowed");
