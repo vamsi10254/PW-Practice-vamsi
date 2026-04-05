@@ -1,4 +1,4 @@
-const statusCode = 404; // Change this value to test different codes
+const statusCode = 200; // Change this value to test different codes
 
 switch (statusCode) {
     case 200:
