@@ -10,12 +10,12 @@ if (score >= 90) {
 }
 
 // 2
-let score = 95;
+let score2 = 95;
 
-if (score >= 90) {
+if (score2 >= 90) {
     console.log("Grade A");
 }
-if (score >= 70) {
+if (score2 >= 70) {
     console.log("Grade B");
 }
 
