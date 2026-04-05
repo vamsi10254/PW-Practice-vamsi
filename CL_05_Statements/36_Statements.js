@@ -16,3 +16,4 @@ if (age > 18) {
     console.log("Go home!");
 }
 
+// Statement - switch on light
