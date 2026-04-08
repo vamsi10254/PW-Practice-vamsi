@@ -1,6 +1,6 @@
 // Hoisting with let
 
-console.log(b); // Access before declaration
+console.log(b); //cannot Access before declaration
 
 let b = 20;
 
