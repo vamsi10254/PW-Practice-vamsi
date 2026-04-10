@@ -5,5 +5,6 @@ function showMessage() {
 
 showMessage();
 
+
 // var has function scope
 // var is function-scoped (accessible only inside the function).
